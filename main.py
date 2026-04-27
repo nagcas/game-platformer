@@ -331,7 +331,7 @@ def draw():
     bg = 'background_color_forest'
     screen.blit(bg, (0, 0))
 
-    screen.draw.text('DINO ADVENTURE', center = (WIDTH // 2, 150), fontsize = 80, color = (255, 255, 255))
+    screen.draw.text('DINO ADVENTURE', center = (WIDTH // 2, 150), fontsize = 80, color = (8, 80, 66))
 
     start_btn.draw()
     music_btn.draw()
