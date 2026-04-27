@@ -60,7 +60,7 @@ tile_map = {
   'G': 'tree',
   'H': 'tree_dead',
   'K': 'flag_yellow',
-  'T': 'arrow',
+  'T': 'sign_2',
   'J': 'spider',
   'M': 'bee',
 }
